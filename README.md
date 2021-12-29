@@ -1,0 +1,2 @@
+# votingpage
+The voting page
